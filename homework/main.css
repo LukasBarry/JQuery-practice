@@ -1,0 +1,25 @@
+.circle {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  background-color: green;
+  border-radius: 50px;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  background-color: blue;
+}
+
+div {
+  float: left;
+  display: none;
+}
+
+button {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10%;
+}
